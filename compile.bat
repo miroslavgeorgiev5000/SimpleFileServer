@@ -1,0 +1,2 @@
+javac FileServer.java
+pause
