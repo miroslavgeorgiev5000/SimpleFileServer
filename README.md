@@ -1,4 +1,4 @@
-#Simple File Server
+# Simple File Server
 
 Allows you to host files easily over HTTP. 
 The purpose of this project is to have a minimalistic HTTP hosting service in java which
